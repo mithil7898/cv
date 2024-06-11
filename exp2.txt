@@ -1,0 +1,7 @@
+1. Download and Install Nodejs 
+2. Install Angular CLI using "npm install -g @angular/cli
+3. Create new angular app, "ng new my-first-app"
+4. Answer the given questions
+5. go to the newly created folder, "cd my-first-app"
+6. type, "ng serve"
+7. Check result on browser with url, "http://localhost:4200//"

@@ -1,0 +1,20 @@
+1. 1. Download and Install Nodejs 
+2. Install Angular CLI using "npm install -g @angular/cli
+3. Create new angular app, "ng new my-first-app"
+4. Answer the given questions
+5. go to the newly created folder, "cd my-first-app"
+6. type, "ng serve"
+7. Check result on browser with url, "http://localhost:4200//"
+8. Change title - folder->src->Change the title in index.html
+9. Delete all content - folder->src->app->app.component.html->select all and Delete and write "Hello World" in h1 tag
+10. One-way data binding - 
+    a. Interpolation - 
+        1. Define a var 'url' in component.ts with url
+        2. Use it in .html
+    b. Property binding - 
+        1. Create img tag and assign it to [src]
+    c. Event binding - 
+        1. Crete a button
+        2. Write a function to handle the Event
+11. Two-way data binding - 
+    1. 
